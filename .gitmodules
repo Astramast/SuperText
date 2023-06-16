@@ -1,0 +1,3 @@
+[submodule "LANP2PText"]
+	path = LANP2PText
+	url = https://github.com/Astramast/LANP2PText.git
