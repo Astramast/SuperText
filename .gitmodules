@@ -4,3 +4,6 @@
 [submodule "WANServerText"]
 	path = WANServerText
 	url = /home/osboxes/c/perso/SuperText/WANServerText/
+[submodule "WANClientText"]
+	path = WANClientText
+	url = /home/osboxes/c/perso/SuperText/WANClientText/
