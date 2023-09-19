@@ -3,7 +3,7 @@
 	url = https://github.com/Astramast/LANP2PText.git
 [submodule "WANServerText"]
 	path = WANServerText
-	url = https://github.com/Astramast/WANServerText
+	url = https://github.com/Astramast/WANServerText.git
 [submodule "WANClientText"]
 	path = WANClientText
-	url = https://github.com/Astramast/WANClientText
+	url = https://github.com/Astramast/WANClientText.git
