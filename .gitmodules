@@ -1,9 +1,9 @@
 [submodule "LANP2PText"]
 	path = LANP2PText
-	url = https://github.com/Astramast/LANP2PText.git
+	url = git@github.com:Astramast/LANP2PText
 [submodule "WANServerText"]
 	path = WANServerText
-	url = https://github.com/Astramast/WANServerText.git
+	url = git@github.com:Astramast/WANServerText
 [submodule "WANClientText"]
 	path = WANClientText
-	url = https://github.com/Astramast/WANClientText.git
+	url = git@github.com:Astramast/WANClientText
